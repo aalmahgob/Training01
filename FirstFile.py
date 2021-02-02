@@ -1,2 +1,2 @@
 # New Python File
-print ("Hello")
+print("Hello")
